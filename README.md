@@ -1,0 +1,2 @@
+# NikReader
+Pembaca Nik Penipu
